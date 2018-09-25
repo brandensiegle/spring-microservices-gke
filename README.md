@@ -1,7 +1,7 @@
 # Spring Boot Microservice with GKE/Istio
 
 This is some boilerplate code to get started with deploying spring boot on GKE (Google Kubernetes Engine)
-
+ 
 # Setup
 
 ## Cluster Setup
